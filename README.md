@@ -42,7 +42,7 @@ admin.site.register(car_DB, car_DBAdmin)
 
 
 ## OUTPUT
-![alt text](<c:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2025-09-13 100526.png>)
+![alt text](<Screenshot 2025-09-13 100526-1.png>)
 
 
 
